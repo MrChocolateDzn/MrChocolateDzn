@@ -1,16 +1,15 @@
-### Hi there 👋
+Etudiant en informatique, j'ai pour projet de devenir "Data Analyst" afin d'aider les entreprises en leur facilité certaines tâches.
 
-<!--
-**MrChocolateDzn/MrChocolateDzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Languages de développement utilisés 
+- Java 
+- Kotlin 
+- SQL 
+- Dart (Flutter) 
+- PHP 
+- HTML/CSS
 
-Here are some ideas to get you started:
+📌 En cours 
+- Actuellement, j'essaye de me former au maximum sur le SDK Flutter avec le langage Dart afin de pouvoir développer des applications multi-plateformes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact 
+- Mail : victor.fleischmann99@gmail.com
